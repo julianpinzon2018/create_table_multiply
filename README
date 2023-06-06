@@ -1,0 +1,14 @@
+# Notas:
+
+```
+Options:
+   --help     Show help       [boolean]
+      --version  Show version number
+                                 [boolean]
+  -b, --base     Enter the number
+          [number] [required] [default: 1]
+  -l, --listar   Show table list
+                [boolean] [default: false]
+  -h, --hasta    Show table list
+                    [number] [default: 10]
+```
